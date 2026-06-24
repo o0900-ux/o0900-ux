@@ -19,7 +19,7 @@
   | Gerador de Quadrinhos | Criar arquivos `.cbr` a partir de imagens digitalizadas | 
   | Renomeador de Arquivos | Renomeia arquivos em sequência dentro de uma pasta |
   
-</div>
+</div> 
 
 
 ## 🧠 Tech Stack
