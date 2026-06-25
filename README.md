@@ -44,11 +44,6 @@
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o0900-ux&theme=dark"/>
-</div>
-
 
 
 
